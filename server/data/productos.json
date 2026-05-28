@@ -1,0 +1,4 @@
+[
+  { "id": 1, "nombre": "Café Premium Orgánico", "precio": 22.9, "categoria": "Bebidas", "descripcion": "Café 100% arábica cultivado en altura.", "imagenes": [], "stock": 15 },
+  { "id": 2, "nombre": "Té Verde Matcha", "precio": 18.5, "categoria": "Bebidas", "descripcion": "Matcha japonés en polvo, sabor intenso.", "imagenes": [], "stock": 25 }
+]
