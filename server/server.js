@@ -7,7 +7,7 @@ import { setupCORS } from "./middleware/cors.js";
 import { correlation } from "./middleware/correlation.js";
 import { authContext } from "./middleware/authContext.js";
 const app = express();
-const CLIENT_ORIGIN = "http://127.0.0.1:5500";
+const CLIENT_ORIGIN = "*";
 app.use(express.json());
 app.use(setupCORS(CLIENT_ORIGIN));
 app.use(correlation);

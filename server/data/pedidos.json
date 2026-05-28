@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "id": 1,
+    "userId": 2,
+    "items": [
+      {
+        "id": 2,
+        "qty": 1
+      }
+    ],
+    "createdAt": "2026-05-28T23:52:10.062Z",
+    "estado": "CREADO"
+  }
+]
